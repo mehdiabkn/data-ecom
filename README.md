@@ -101,4 +101,6 @@ Cette analyse de la répartition en fonction des jours et des heures de mes 250 
 Avec plus de données, j'aurais mené des études plus complexes en m'intéressant à la combinaison jour-heure et aux saisonnalités qu'il pourrait exister dans les tendances des consommateurs. Cela me permettrait d'automatiser complètement mes investissements eet mes enchères sur la plateforme TikTok Ads.
 Remarque : Après des essais successifs sur Meta Ads, Google Ads et TikTok Ads, j'ai choisi de ne retenir TikTok Ads au regard de sa très nette supériorité quant aux ROIs. Si j'avais choisi de combiner sources de trafic j'aurais du mener une étude comparative en m'appuyant sur les *pixels* des différentes plateformes.
 
+Aussi, on remarque un fort rebond des achats à partir du 27ème jour du mois et ce n'est qu'à partir du 10ème jour du mois que le pic redescend. Toutefois, n'ayant que trois mois de données, j'ai estimé qu'il n'était pas pertinent d'utiliser mes données pour tenter de déceler une véritable tendance générale.
+
 
