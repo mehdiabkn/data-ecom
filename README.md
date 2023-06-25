@@ -96,7 +96,7 @@ Ce graphique représente la fréquence des commandes passées à chaque heure de
 ## Conclusion
 
 L'API de shopify permet d'extraire des informations intéressantes de sa boutique qui seraient disponibles moyennant de mettre à niveau son abonnement mensuel.
-Cette analyse de la répartition en fonction des jours et des heures de mes 250 premières ventes ont révélé une tendance déjà rencontrée dans des articles de blog que j'ai consulté avant de faire cette étude sur ma propre boutique : les consommateur sur internet sont plus enclins à passer commande le lundi et le jeudi.
+Cette analyse de la répartition en fonction des jours et des heures de mes 250 premières ventes a révélé une tendance déjà rencontrée dans des articles de blog que j'ai consulté avant de faire cette étude sur ma propre boutique : les consommateur sur internet sont plus enclins à passer commande le lundi et le jeudi.
 
 Avec plus de données, j'aurais mené des études plus complexes en m'intéressant à la combinaison jour-heure et aux saisonnalités qu'il pourrait exister dans les tendances des consommateurs. Cela me permettrait d'automatiser complètement mes investissements eet mes enchères sur la plateforme TikTok Ads.
 Remarque : Après des essais successifs sur Meta Ads, Google Ads et TikTok Ads, j'ai choisi de ne retenir TikTok Ads au regard de sa très nette supériorité quant aux ROIs. Si j'avais choisi de combiner sources de trafic j'aurais du mener une étude comparative en m'appuyant sur les *pixels* des différentes plateformes.
