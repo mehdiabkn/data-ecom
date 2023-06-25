@@ -3,7 +3,7 @@
 ## Résumé 
 
 En février, j'ai créé une boutique e-commerce que j'ai conçue avec Shopify et que j'ai fait connaître grâce à TikTok Ads. 
-Grâce à l'API de Shopify sur Python et à partir de 2 mois de données de clients (250 ventes), j'ai déterminé que les utilisateurs étaient plus enclins à acheter les lundi et jeudi et qu'à l'inverse le dimanche et le mardi étaient des jours où il y avait le moins d'activité de la semaine.
+Grâce à l'API de Shopify sur Python et à partir de 2 mois de données de clients (250 ventes), j'ai déterminé que les utilisateurs étaient plus enclins à acheter les lundi et jeudi et qu'à l'inverse le dimanche et le mardi étaient les jours où il y avait le moins d'activité de la semaine.
 Cela constitue un véritable outil d'aide à la décision pour moi pour le paramétrage de mes publicités. Ainsi, je ne programme des publicités que les lundi et jeudi en mettant l'accent sur les horaires avec le plus de conversions.
 ## Introduction
 Ce rapport présente un outil élémentaire d'aide à la décision que j'ai développé en python sur un projet personnel de e-commerce de ma boutique en ligne, Dohashop.fr. Le projet a été conçu et exploité par mes soins dans le cadre d'une entreprise individuelle immatriculée en France depuis février dernier.  Dans ce rapport, je vais expliquer les principales fonctionnalités du programme Python que j'ai développé pour analyser les commandes et générer des graphiques basés sur les données de vente.
