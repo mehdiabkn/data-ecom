@@ -31,7 +31,7 @@ Pour faire connaître ma boutique le plus rapidement possible et auprès des pro
 Avant de pouvoir accéder aux données de la boutique Shopify, j'ai dû m'authentifier à l'API Shopify en utilisant l'URL de la boutique, le jeton d'API et la version de l'API. Voici les informations d'authentification utilisées dans le programme :
 ```python
 shop_url ='hyshopify.com'
-token='shpa55ba01930d08'
+token='shpa*******930**8'
 api_session= shopify.Session(shop_url, '2023-04', token)
 shopify.ShopifyResource.activate_session(api_session)
 ```
